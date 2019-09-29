@@ -1,0 +1,87 @@
+Student Name:  Mary Adams 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+33333    0136    $  88.00    3     $  64.15     $  23.85 
+88888    0989    $ 125.00    5     $  73.81     $  51.19 
+99999    1115    $  72.00    1     $  64.80     $   7.20 
+***
+Subtotal:        $ 285.00          $ 202.76     $  82.24 
+Books Checked Out:  3
+Student Name:  Bugs Bunny 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+44444    0085    $ 105.00    6     $  55.80     $  49.20 
+55555    0112    $  92.00    4     $  60.36     $  31.64 
+***
+Subtotal:        $ 197.00          $ 116.16     $  80.84 
+Books Checked Out:  2
+Student Name:  Jane Jones 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+22222    0008    $  75.00    3     $  54.67     $  20.33 
+11111    1016    $ 101.00    2     $  81.81     $  19.19 
+***
+Subtotal:        $ 176.00          $ 136.48     $  39.52 
+Books Checked Out:  2
+Student Name:  Tom Jones 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+55555    0162    $  92.00    4     $  60.36     $  31.64 
+66666    1168    $  64.00    2     $  51.84     $  12.16 
+44444    0358    $ 105.00    4     $  68.89     $  36.11 
+***
+Subtotal:        $ 261.00          $ 181.09     $  79.91 
+Books Checked Out:  3
+Student Name:  Foghorn Leghorn 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+77777    0279    $  58.00    3     $  42.28     $  15.72 
+***
+Subtotal:        $  58.00          $  42.28     $  15.72 
+Books Checked Out:  1
+Student Name:  Marvin Martian 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+99999    0785    $  72.00    2     $  58.32     $  13.68 
+11111    0092    $ 101.00    1     $  90.90     $  10.10 
+33333    0078    $  88.00    5     $  51.96     $  36.04 
+88888    0678    $ 125.00    4     $  82.01     $  42.99 
+66666    0058    $  64.00    3     $  46.66     $  17.34 
+***
+Subtotal:        $ 450.00          $ 329.85     $ 120.15 
+Books Checked Out:  5
+Student Name:  John Willems 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+11111    0018    $ 101.00    2     $  81.81     $  19.19 
+22222    0526    $  75.00    2     $  60.75     $  14.25 
+33333    1102    $  88.00    4     $  57.74     $  30.26 
+44444    0915    $ 105.00    3     $  76.54     $  28.46 
+***
+Subtotal:        $ 369.00          $ 276.84     $  92.16 
+Books Checked Out:  4
+Student Name:  Moonunit Zappa 
+*** 
+Book     Copy    Original  Times   Depreciated  Cost 
+Number   Number  Cost      Rented  Cost         Savings 
+*** 
+55555    0073    $  92.00    5     $  54.33     $  37.67 
+99999    0528    $  72.00    1     $  64.80     $   7.20 
+***
+Subtotal:        $ 164.00          $ 119.13     $  44.87 
+Books Checked Out:  2
+Grand Total:     $ 1960.00        $ 1404.60      $555.41

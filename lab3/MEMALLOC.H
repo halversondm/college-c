@@ -1,0 +1,16 @@
+double *dvecalloc(int low_d, int high_d);
+float *fvecalloc(int low_f, int high_f);
+int *ivecalloc(int low, int high);
+char *cvecalloc(int low_c, int high_c);
+double **dmatalloc(int rowlow_d,int rowhigh_d,int collow_d,int colhigh_d);
+float **fmatalloc(int rowlow_f,int rowhigh_f,int collow_f,int colhigh_f);
+int **imatalloc(int rowlow,int rowhigh,int collow,int colhigh);
+char **cmatalloc(int rowlow_c,int rowhigh_c,int collow_c,int colhigh_c);
+void free_dvector(double *v,int nl,int nh);
+void free_fvector(float *v,int nl,int nh);
+void free_ivector(int *v,int nl,int nh);
+void free_cvector(char *v,int nl,int nh);
+void free_dmatrix(double **m,int nrl,int nrh,int ncl,int nch);
+void free_fmatrix(float **m,int nrl,int nrh,int ncl,int nch);
+void free_imatrix(int **m,int nrl,int nrh,int ncl,int nch);
+void free_cmatrix(char **m,int nrl,int nrh,int ncl,int nch);
